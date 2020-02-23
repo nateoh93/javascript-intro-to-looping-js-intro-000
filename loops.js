@@ -1,6 +1,6 @@
 function forLoop(array) {
-  for (i=1; i<26, i++) {
-  console.log(`"I am ${i} strange loop${i===0? "": 's'}."`)
+  for (array=1; array<26, array++) {
+  console.log(`"I am ${array} strange loop${array===0? "": 's'}."`)
   }
 }
 forLoop(array)
