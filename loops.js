@@ -3,3 +3,4 @@ function forLoop(array) {
   console.log(`"I am ${i} strange loop${i===0? "": 's'}."`)
   }
 }
+forLoop(array)
